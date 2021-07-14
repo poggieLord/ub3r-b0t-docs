@@ -11,9 +11,11 @@ Aliases: `8`
 `.8ball question` `.8 question`
 
 ```html
-<arc_> .8ball tell me, do you bleed?
-<UB3R-B0T> Only on Tuesdays.
+<arc_> .8ball bad bot
+<UB3R-B0T> :((((((
 ```
+<arc_> .8ball good bot
+<UB3R-B0T> :))))))
 
 ## admin
 Creates administration settings for the server. (Discord only)
@@ -277,8 +279,8 @@ A random fact. But the source is the internet. So, grain of salt etc.
 `.fact`
 
 ```html
-<zur> .fact
-<UB3R-B0T> It's impossible to sneeze with your eyes open.
+<zur> .unfact
+<UB3R-B0T> It's impossible to sneeze with your eyes closed.
 ```
 
 ## feedback
